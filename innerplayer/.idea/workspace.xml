@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0811837-32da-427c-8096-25534ea44e04" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/innerplayer.html" afterPath="$PROJECT_DIR$/innerplayer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/innerplayer.js" afterPath="$PROJECT_DIR$/innerplayer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/player.html" afterPath="$PROJECT_DIR$/Client/player.html" />
     </list>
     <ignored path="innerplayer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +36,8 @@
       <file leaf-file-name="player.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Client/player.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0425">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,7 +48,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.6296296">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1440692318144" expanded="true" signature="21:27" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +74,7 @@
         <option value="$PROJECT_DIR$/innerplayer.html" />
         <option value="$PROJECT_DIR$/player.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Client/player.html" />
       </list>
     </option>
   </component>
@@ -86,8 +86,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="138" />
-    <option name="y" value="295" />
+    <option name="x" value="173" />
+    <option name="y" value="149" />
     <option name="width" value="1200" />
     <option name="height" value="586" />
   </component>
@@ -210,7 +210,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="295" width="1200" height="586" extended-state="1" />
+    <frame x="173" y="149" width="1200" height="586" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24956971" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -252,7 +252,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6296296">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1440692318144" expanded="true" signature="21:27" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -274,8 +276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Client/player.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0425">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
