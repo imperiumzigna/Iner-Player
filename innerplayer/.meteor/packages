@@ -7,3 +7,7 @@
 meteor-platform
 autopublish
 insecure
+twbs:bootstrap
+urigo:angular
+jss:flat-ui
+fortawesome:fontawesome
